@@ -23,7 +23,7 @@ public static void main(String[] args) {
 	if(cnt>1) {
 		sb.append(cnt);
 	}
-	System.out.println(sb.toString());
+	System.out.println("hi: "+sb.toString());
 	
 }
 }
